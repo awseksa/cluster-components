@@ -26,13 +26,3 @@ spec:
     kind: GitRepository
     name: flux-system
 ---
-apiVersion: v1
-kind: Secret
-metadata:
-  name: flux-system
-  namespace: flux-system
-type: Opaque
-data:
-  username: YXdzZWtzYQ==
-  password: Z2hwX1lwZG1qQXA2OFF4cE5ySEp2cml1WldOVVNqWDRJTTNIU1BqTA==
----
