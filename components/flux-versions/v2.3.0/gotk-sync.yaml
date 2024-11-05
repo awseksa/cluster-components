@@ -26,10 +26,9 @@ spec:
     kind: GitRepository
     name: flux-system
   decryption:
-   provider: sops
+    provider: sops
     secretRef:
       name: sops-gpg
-  timeout: 2m
 ---
 apiVersion: v1
 kind: Secret
