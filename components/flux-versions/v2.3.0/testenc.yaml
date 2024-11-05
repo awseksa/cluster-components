@@ -14,8 +14,7 @@ sops:
     hc_vault: []
     age: []
     lastmodified: "2024-11-05T05:46:22Z"
-    mac: ENC[AES256_GCM,data:CcU6HWndsiaSZNTTxK6y64/qa47RveyQmjq4RkjEtMxJRjKUvnvFdXzeYHZTDdGa20PrtRlS/U4IukZLu1ljFn+DJE/h5RhIxRo/myZq1FAogXEEQ/FDsO+AYVrK1/RdKf41D5j+R3Rxeu9WiZbE7RDQxQPelLc4
-9cDtFkJbkRA=,iv:x6HAlnEY9qBhotBOxV6wT/Y1Ixf3bQvdIyWmJ0VveK0=,tag:DMWdBMIzckBEOJ1MTvcCew==,type:str]
+    mac: ENC[AES256_GCM,data:CcU6HWndsiaSZNTTxK6y64/qa47RveyQmjq4RkjEtMxJRjKUvnvFdXzeYHZTDdGa20PrtRlS/U4IukZLu1ljFn+DJE/h5RhIxRo/myZq1FAogXEEQ/FDsO+AYVrK1/RdKf41D5j+R3Rxeu9WiZbE7RDQxQPelLc49cDtFkJbkRA=,iv:x6HAlnEY9qBhotBOxV6wT/Y1Ixf3bQvdIyWmJ0VveK0=,tag:DMWdBMIzckBEOJ1MTvcCew==,type:str]
     pgp:
         - created_at: "2024-11-05T05:46:22Z"
           enc: |-
