@@ -3,7 +3,6 @@ kind: Kustomization
 namespace: flux-system
 resources:
 - gotk-components.yaml
-- gotk-sync.yaml
 patches:
 - patch: |-
     apiVersion: apps/v1
